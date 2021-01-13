@@ -2,9 +2,11 @@
 
 Getting started with HTML. 
 
-I am learning and refreshing my memory on HTML using online learning platform Udemy online. The course offered is The Web Developer Bootcamp 2021.
+I am learning and refreshing my memory on HTML using online learning platform Udemy. The course offered is The Web Developer Bootcamp 2021.
 
-To format document on MAC VS is shift option F
+To format document on MAC VS is shift option f
+TO show all commends commend shift p
+To open terminal control command T
 
 Introducting 
   Main Root
