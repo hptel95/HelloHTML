@@ -31,5 +31,12 @@ Introducting
     The HTML <a> element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
     
     The HTML <img> element embeds an image into the document.
+
+    The HTML <br> element produces a line break in text (carriage-return). It is useful for writing a poem or an address, where the division of lines is significant.
+
+    The HTML Subscript element (<sub>) specifies inline text which should be displayed as subscript for solely typographical reasons.
+
+    The HTML Superscript element (<sup>) specifies inline text which is to be displayed as superscript for solely typographical reasons.
+    
     To comment in HTML <!-- Hello -->
   
